@@ -76,7 +76,7 @@
 
     header nav {
         position: relative;
-        top: 25%;
+        top: 45%;
         -moz-transform: translatey(-45%);
         -ms-transform: translatey(-45%);
         -o-transform: translatey(-45%);
@@ -125,7 +125,8 @@
 
     nav .member-actions {
         position: static;
-        padding: 0;
+        padding-top: 400px;
+        padding-left: 18rem;
         text-align: center;
     }
 
