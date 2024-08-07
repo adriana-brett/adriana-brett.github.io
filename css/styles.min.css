@@ -305,14 +305,14 @@ hr {
 
 
 .flags{
-    width: 100px;
+    width: 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
 .flags_item{
-    width: 40px;
+    width: 50px;
     border-style: solid;
     border-radius: 0%;
     border-color: #000;
