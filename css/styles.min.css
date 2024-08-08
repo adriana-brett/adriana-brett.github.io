@@ -4,15 +4,22 @@
     src: url("./josephsophia.ttf");
 }
 
+@font-face{
+    font-family: "Quicksand";
+    src: url("./Quicksand_Light.otf");
+}
+
 .breath{
     font-family: "Breathing";
 }
 
 p{
+    font-family: "Quicksand";
     font-size:15px;
     line-height:29px;
     color:rgba(0, 0, 0, 0.9);
-    padding-bottom:0px
+    padding-bottom:0px;
+    font-weight: 400;
 }
 
 h1{
