@@ -1,7 +1,7 @@
 @import"https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800";@import"https://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,300italic,700,700italic";@import"https://fonts.googleapis.com/css?family=Nunito:400,300,700";
 @font-face{
     font-family: "Breathing";
-    src: url("./TheMumbaiStickerDemo-SVG.ttf");
+    src: url("./josephsophia.ttf");
 }
 
 .breath{
@@ -29,7 +29,7 @@ h3
 {color:#3d4351;
     
     font-family: "Breathing";
-    font-size:40px;
+    font-size:50px;
     font-weight:700;
     /*text-transform:uppercase;*/
     letter-spacing:3px;
