@@ -1,0 +1,17 @@
+{
+    "menu": {
+         "item1": "Como se conocieron",
+         "item2": "Eventos semana de la boda",
+         "item3": "Transporte y acomodacion",
+         "item4": "Cosas que hacer",
+         "item5": "Galelria",
+         "item6": "Preguntas frecuentes",
+         "item7": "Registro",
+         "item9": "RSVP"
+    },
+
+    "intro"{
+        "text1": "Nos casamos",
+        "text2": "La fecha es el 05 de abril de 2025 y queremos que nos acompañes"
+   }
+ }
