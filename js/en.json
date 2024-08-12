@@ -1,17 +1,119 @@
 {
-   "menu": {
-        "item1": "How they met",
-        "item2": "Weeding week events",
-        "item3": "Travel and accomodation",
-        "item4": "Thins to do",
-        "item5": "Gallery",
-        "item6": "FAQS",
-        "item7": "Registry",
-        "item9": "RSVP"
-   },
+     "menu": {
+          "item1": "How they met",
+          "item2": "Wedding week events",
+          "item3": "Travel & accommodation",
+          "item4": "Things to do",
+          "item5": "Gallery",
+          "item6": "FAQS",
+          "item7": "Registry",
+          "item9": "RSVP"
+     },
 
-   "intro":{
-        "text1": ">We are getting married",
-        "text2": "The date is 05 of april 2025 and we would like you to be a part of it."
-   }
+     "intro":{
+          "text1": "We are getting married",
+          "text2": "The date is 05 of april 2025 and we would like you to be a part of it."
+     },
+
+     "story":{
+          "how": "How they met",
+          "story1": "Brett and Adriana met thanks to Cupid’s best invention of the 21st Century, a dating app. Brett was suspicious at first, as Adriana made the first move, he thought to himself, “She’s gorgeous and seems nice, potentially perfect, but she says she lives in London, but is from Bogotá, and is only here for a short time visiting family.” Against his better judgment, Brett decided to ask her out that first day they matched, and told himself, if she turns out to be a scam, a small bit of personal embarrassment would be worth the risk. <br> <br> Thankfully for Brett, Adrianas aunt, Tia Marce, had been encouraging her to go out and meet friends during her time visiting, to entice her to return. This is when Adriana decided to download Hinge, However, Adriana’s standards were high, so she had no interest in the guys who she was receiving likes from, this is when she took matters into her own hands, “There must be some attractive gringuito here in Connecticut, and I am going to find him” She soon came across Bretts profile, and realized she was right, as always. She sent Brett a like, and put her phone down. Within minutes Brett responded to her, and the small talk began. They chatted for a while, and then Brett asked her out that very night.",
+          "story2": "They would both agree that the first date went well, and the second and even the third, but the one who really sealed the deal was Bruno, Brett’s dog. he seemed to have approved of Adriana although he was still cautious as he barked and stood over her every time she spoke, but after a while, a long while, he ended up loving her thanks to all the patience and love she gave him since day one. In the back of their minds however, they knew that their time was limited because Adriana had to go back to London only 7 days after they met. This is where the great People's Republic of China comes into play. Due to Covid restrictions, Adriana had to take a Covid test in order to board her flight, so she asked Brett to give her a ride to the doctors office. On the way there, Brett was secretly hoping for a positive result, which would keep her in the US for at least 10 more days; they both later found out that they were hoping for the same result. <br><br> The results were in, and thanks to Wuhan, they were positive. Adriana’s stuck in the US. Now, Brett made his way to the doctors office to take his test, “please be positive, please be positive” he told himself. But when his results came back, they were negative. <br><br> Decision time, does Brett call it quits so as to not put anyone around him at risk? Or does he edit Adriana’s test to look like his own, and tells everyone around him he has Covid? <br><br> He chose option 2, Sorry to anyone affected, especially you, Scott (Brett’s roommate at the time). <br><br> Over the next 2 weeks, Brett and Adriana spent almost every day together, getting to know each other and becoming closer, Brett would say falling in love, but Adriana was fighting these feelings because of the life she had in the UK. (Good try Adriana, we all know how that ended). <br><br> Flash forward a couple months, and then a couple years, and multiple trips across the pond, Brett and Adriana were in love. Adriana had finally agreed to leave the UK and start their life together in the US."
+     },
+
+     "propuesta":{
+          "prop1": "Proposal",
+          "prop2": "On a trip to Colombia in January of 2024, Brett had brought something special along for the flight. Adrianas sisters, Camila and Carolina, were Bretts accomplices, and they did a great job in organizing a beautiful engagement. During that time Brett had chosen the song that was going to play during the proposal, invited most of Adriana’s family and friends and chose a very special date in Adriana’s life. The time had come, but Adriana wasn’t cooperating with the plan that Camila, Carolina, and Brett had come up with. <br><br> Back to the drawing board, the sisters secretly spoke to each other when Adriana wasn’t around (a harder task than you would think as she sticks to her sisters like glue) and came up with a plan that they thought she would actually agree to.",
+          "prop3": "They would arrive at Parque de los Novios, and Camila would ask Adriana to accompany her to the bathroom as Brett snuck away with Carolina to the spot of the proposal. Unfortunately, Adriana did not want to go with her, as she wanted to show Brett around the park. <br><br> The soon to be engaged couple instead walked together, and as they came around the side of a hill, Adriana saw the decorations and the large letters that read “ Marry me”. “Oh look how pretty” she said, as Brett asked, “You don’t know who this is for?”. This is when the tears started for Adriana, and the wind picked up and blew dust into Bretts eyes, causing them to water uncontrollably. Brett got down on one knee, and in front of the majority of Adrianas family in Bogota, they were now engaged.",
+          "prop4": "On a trip to Colombia in January of 2024, Brett had brought something special along for the flight. Adrianas sisters, Camila and Carolina, were Bretts accomplices, and they did a great job in organizing a beautiful engagement. During that time Brett had chosen the song that was going to play during the proposal, invited most of Adriana’s family and friends and chose a very special date in Adriana’s life. The time had come, but Adriana wasn’t cooperating with the plan that Camila, Carolina, and Brett had come up with. <br><br> Back to the drawing board, the sisters secretly spoke to each other when Adriana wasn’t around (a harder task than you would think as she sticks to her sisters like glue) and came up with a plan that they thought she would actually agree to. They would arrive at Parque de los Novios, and Camila would ask Adriana to accompany her to the bathroom as Brett snuck away with Carolina to the spot of the proposal. Unfortunately, Adriana did not want to go with her, as she wanted to show Brett around the park. <br><br> The soon to be engaged couple instead walked together, and as they came around the side of a hill, Adriana saw the decorations and the large letters that read “ Marry me”. “Oh look how pretty” she said, as Brett asked, “You don’t know who this is for?”. This is when the tears started for Adriana, and the wind picked up and blew dust into Bretts eyes, causing them to water  uncontrollably. Brett got down on one knee, and in front of the majority of Adrianas family in Bogota, they were now engaged. <br><br><br><br>"
+     },
+
+     "novios": {
+          "novio": "Meet the groom",
+          "novio1": "For those who don’t know the groom Brett is the youngest brother of 4, his twin Leah and his older sisters Jen and Chelsea, he is the uncle of Quinn and Parker and the spoiled son of his mother Regina, if you ask his sisters. He is also Bruno 's father, a German Shepherd with an Italian name, to go along with Bretts Italian heritage that he never passes up the chance to show someone on the ancestry.com app. Bruno is the biggest and most handsome boy. Brett's family and friends would describe him as someone who is there unconditionally, that they can come to with good news or bad and is always there to support, a loyal and extremely hardworking person, who always shows up, especially for plumbing emergencies. Brett is a fan of the Philadelphia Eagles, who at the time of the wedding will most likely have just won a Super Bowl. One of Brett's favorite hobbies, besides work, is laying on the couch with Bruno. He is trying to get Adriana interested in this, but has had no luck.<br><br>",
+          "novio2": "Meet the groom",
+          "novio3": "<br>For those who don’t know the groom Brett is the youngest brother of 4, his twin Leah and his older sisters Jen and Chelsea, he is the uncle of Quinn and Parker and the spoiled son of his mother Regina, if you ask his sisters. He is also Bruno 's father, a German Shepherd with an Italian name, to go along with Bretts Italian heritage that he never passes up the chance to show someone on the ancestry.com app. Bruno is the biggest and most handsome boy. Brett's family and friends would describe him as someone who is there unconditionally, that they can come to with good news or bad and is always there to support, a loyal and extremely hardworking person, who always shows up, especially for plumbing emergencies. Brett is a fan of the Philadelphia Eagles, who at the time of the wedding will most likely have just won a Super Bowl. One of Brett's favorite hobbies, besides work, is laying on the couch with Bruno. He is trying to get Adriana interested in this, but has had no luck.<br><br>",
+          "novia": "Meet the bride",
+          "novia1": "For those who don't know the bride, Adriana is 100% Colombian, the first born daughter, and as her parents, Ricardo and Nubia say, the one who taught them to be good parents. She has two younger sisters, Carolina, the middle sister, and the youngest, Camila, she is the aunt of Honey, the sweetest pitbull, and Bruce the most fierce and ferocious Maltese of all time. Her family and friends would describe her as an independent, strong, hard working, adventurous woman, who could sometimes be a bit stubborn, but only a bit, (Adrianas words). She always puts her family first and is going out of her way to help others, sometimes inconveniencing herself when she does this. She left her home at 22 to start a life in London, where she did not know anybody, or the language. She started in London all alone, moving ten times and having all types of jobs, until finally starting a career in Real Estate. She lived in London for nine years. One of her favorite hobbies is traveling. She has been in over 16 countries and counting, she is trying to get Brett interested in this, but has had no luck yet. Adriana and Bruno have spent a lot of time together since she moved to the US, and Bruno loves having his mom here now. <br><br> And Regarding Bruno, well he did get to make them both interested on (petting him) (scratching his tummy) and feeding him cookies and treats all day long.<br><br>",
+          "novia2": "<br><br>Meet the bride",
+          "novia3": "<br>For those who don't know the bride, Adriana is 100% Colombian, the first born daughter, and as her parents, Ricardo and Nubia say, the one who taught them to be good parents. She has two younger sisters, Carolina, the middle sister, and the youngest, Camila, she is the aunt of Honey, the sweetest pitbull, and Bruce the most fierce and ferocious Maltese of all time. Her family and friends would describe her as an independent, strong, hard working, adventurous woman, who could sometimes be a bit stubborn, but only a bit, (Adrianas words). She always puts her family first and is going out of her way to help others, sometimes inconveniencing herself when she does this. She left her home at 22 to start a life in London, where she did not know anybody, or the language. She started in London all alone, moving ten times and having all types of jobs, until finally starting a career in Real Estate. She lived in London for nine years. One of her favorite hobbies is traveling. She has been in over 16 countries and counting, she is trying to get Brett interested in this, but has had no luck yet. Adriana and Bruno have spent a lot of time together since she moved to the US, and Bruno loves having his mom here now. <br><br> And Regarding Bruno, well he did get to make them both interested on (petting him) (scratching his tummy) and feeding him cookies and treats all day long.<br><br>"
+     },
+
+     "eventos": {
+          "eventos1": "Events",
+          "eventos2": "We will have an optional event on Thursday, April 3rd, a Welcome Cocktail on Friday, April 4th, the Wedding will be on Saturday, April 5th, and we will be able to return to the venue for a day at the beach on Sunday, April 6th. <br> <br> The events, plans, and locations will soon be confirmed."
+     },
+
+     "travel": {
+          "travel1": "Travel and Accommodation",
+          "welcome": "Welcome to Santa Marta! we can't wait to have you join us. Santa Marta is a city on the Northern Coast of Colombia, close to the equator, a few hours drive from Cartagena. It was one of the last settlements of the Spanish in South America before they were defeated. One of Colombia's largest national Parks, Tayrona, is located just 45 minutes from the city, with beautiful beaches and the trail to Ciudad Perdida (lost city) an ancient city discovered in 1976 and is believed to have been founded about 800 AD, if so, Ciudad Perdida pre-dates Machu Picchu by about 650 years. The climate in this area is tropical, so it will be very warm, with a strong UV index, so don’t forget your sunscreen! <br><br> !Friendly reminder to please check your passport expiration date. Six months validity beyond your travel date is required by Colombia guidelines.!<br><br><br>",
+          "plans": "Travel Plans",
+          "plans1": "If you are traveling from out of the country, you can fly to Bogota (El Dorado International Airport) and from there take a connecting flight to Santa Marta (Simon Bolivar International Airport). If you are flying from Connecticut, the easiest way is to fly from JFK. Once in Santa Marta, we recommend pre-booking a cab to pick you up from the airport (most likely through your accommodation). We will provide information for trusted Transportation companies to book taxis with. You can expect the ride from the airport to the hotel area to be about 20 minutes. <br><br><br>",
+          "acomodations": "Accommodation",
+          "acomodations1": "There are many hotels in Santa Marta and the surrounding area, and you are welcome to stay wherever you’d like, but if you would like some guidance we recommend staying around the areas of Playa Salguero, Pozos Colorados y Bello Horizonte which are the main hotel areas with beautiful beaches and a variety of conveniently close amenities. <br><br> There are plenty of accommodations to choose from, starting with larger hotel chains to small boutique hotels, apartments and hostels. We have compiled a list of some of our favorite options, which you can see below. We recommend booking early as Santa Marta is a popular destination and hotels tend to fill up quickly. <br><br><br>",
+          "airbnb": "Multi-bedroom apartments",
+          "airbnb1": "",
+          "airbnb2": "",
+          "airbnb3": "Multi-bedroom apartments",
+          "airbnb4": "",
+          "airbnb5": "",     
+          "airbnb6": "This is a high rise condominium building located on the beach, it offers 1, 2 and 3 bedroom apartments. Reserva Del Mar has 5 swimming pools, one of them is on the rooftop! Most of the apartments have balconies and stunning sea views, there are bars by the pools, indoor and outdoor hot tubs, sauna, mini-golf, sport center and two restaurants that offer room service, there is also a 24/7 reception desk. <br><br> It can be booked with the assistance of Adriana, or with this Whatsapp number (add link).",
+          "hilton": "HILTON SANTA MARTA",
+          "hilton1": "",
+          "hilton2": "",
+          "hilton3": "HILTON SANTA MARTA",
+          "hilton4": "",
+          "hilton5": "",
+          "hilton6": "Beautiful modern rooms and the traditional services of a Hilton, it is located on the beach front, it has one family pool and one rooftop adult pool, both with bars, the Hotel also has a sports center and two restaurants with room service.",
+          "zuana": "HOTEL ZUANA BEACH RESORT, SPA Y CENTRO DE CONVENCIONES",
+          "zuana1": "",
+          "zuana2": "",
+          "zuana3": "HOTEL ZUANA BEACH RESORT, SPA Y CENTRO DE CONVENCIONES",
+          "zuana4": "",
+          "zuana5": "",
+          "zuana6": "This is a large resort that offers two swimming pools, outdoor hot tubs, a fitness center and a tennis court. It is also located on the beach front and has two restaurants and a rooftop bar."
+     },
+
+     "todo": {
+          "todo1": "Coming soon..<br><br>",
+          "todo2": "Restaurants",
+          "todo3": "Activities",
+          "todo4": "Things to try",
+          "todo5": "Coffee",
+          "todo6": "Bar",
+          "todo7": "Shopping",
+          "todo8": "Explore Colombia"
+     },
+
+     "galeria": {
+          "galeria1": "Gallery<br><br>"
+     },
+
+     "FAQS": {
+          "FAQS1": "Frequently Asked Questions<br><br>",
+          "q1": "Are there blocked rooms?",
+          "q2": "What is the dress code for wedding events?",
+          "q3": "What is the dress code for the wedding?",
+          "q4": "Will there be transportation to and from the hotel to the wedding venue?",
+          "q5": "When soon should I arrive?",
+          "q6": "What is the weather like in Santa Marta?",
+          "q7": "Do I need cash?",
+          "q8": "Are Taxis safe? or do I need to rent a car?",
+          "q9": "What's with all the street vendors?",
+          "q10": "How much is a tip?",
+          "q11": "Can I eat street food and drink tap water?",
+          "q12": "Is Santa Marta safe?",
+          "a1": "Not necessarily, but we are in contact with Reserva Del Mar to put our guests in the same tower",
+          "a2": "These details are coming soon",
+          "a3": "These details are coming soon, However the ceremony will be on the beach, and the reception under an open air tent.",
+          "a4": "Shuttles will be provided to and from the hotels where guests are staying, exact times will be updated on the transportation tab soon.",
+          "a5": "We recommend arriving on Wednesday evening or Thursday morning so you can rest after your trip and join us for the welcome cocktail on Friday. If you can't arrive so soon ,don't worry! We will love to have you on our big day. <br> If you are planning to extend your trip and explore Colombia, we have included some recommendations and places for you to visit in the “Things to do” tab. Please do not hesitate to contact us if you have any questions - we will be more than happy to help!",
+          "a6": "April is a tropical month in Santa Marta. Temperatures will vary between 92° / 78° Fahrenheit 34°C / 26°C. The ceremony will be on the beach in the late afternoon, and the reception will be in an open air tent with fans and an ocean breeze.",
+          "a7": "Most places accept cards and Apple pay, however, you will need cash for taxis, small shops and street vendors. <br> You can withdraw cash from any ATM, inside the airport or in a shopping center; You can also change dollars or pounds at the exchange offices at the airport.",
+          "a8": "Yellow taxis are generally safe, but they tend to charge foreigners higher rates, so it is best to always book them with the reception desk at your accommodation, who will usually share the fare with you before accepting the ride. There are also apps, such as Indriver, Cabify, or Uber.  <br> The car doors in Colombia aren't as strong as in other countries, so please be mindful to not slam the Taxi doors.! Brett has been scolded for this many times.",
+          "a9": "You will find quite a few vendors trying to sell souvenirs, hats, bracelets, fans, etc. They can be a little persistent but you can seriously say “No gracias” or you can haggle, never pay the first price!",
+          "a10": "Tipping is common, a tip of $10,000-20,000 COP (equivalent to $3-5 USD) would be greatly appreciated, In restaurants, a service fee is normally added, but you can tip based on the same percentage as in the US.",
+          "a11": "Street food is one of the best ways to try typical food and is usually delicious and fresh, however be aware of the way it is being prepared and if the ingredients are exposed to the sun. <br> As for water, it is best to only drink bottled water.",
+          "a12": "Santa Marta is safe, however as in any other city it would be wise to be aware of your surroundings. It is recommended to be cautious with items like phones, wallets, and jewelry while on the streets, and items such as passports and other valuables in your hotel safe."
+     }
 }

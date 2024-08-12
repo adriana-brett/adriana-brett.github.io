@@ -1,17 +1,119 @@
 {
-    "menu": {
-         "item1": "Como se conocieron",
-         "item2": "Eventos semana de la boda",
-         "item3": "Transporte/acomodacion",
-         "item4": "Cosas que hacer",
-         "item5": "Galelria",
-         "item6": "Preguntas frecuentes",
-         "item7": "Registro",
-         "item9": "RSVP"
-    },
+     "menu": {
+          "item1": "Como se conocieron",
+          "item2": "Eventos semana de la boda",
+          "item3": "Transporte/acomodacion",
+          "item4": "Cosas que hacer",
+          "item5": "Galeria",
+          "item6": "Preguntas frecuentes",
+          "item7": "Registro",
+          "item9": "RSVP"
+     },
 
-    "intro":{
-        "text1": "Nos casamos",
-        "text2": "La fecha es el 05 de abril de 2025 y queremos que nos acompañes"
-   }
- }
+     "intro":{
+          "text1": "Nos casamos",
+          "text2": "La fecha es el 05 de abril de 2025 y queremos que nos acompañes"
+     },
+
+     "story": {
+          "how": "Como se conocieron",
+          "story1": "Brett y Adriana se conocieron gracias al mejor invento de cupido en el siglo XXI, una app de citas. Al principio Brett sospechaba del perfil de Adriana, porque pensó “Es hermosa y parece agradable, potencialmente perfecta, pero dice que vive en Londres pero es de Bogotá, y está acá (en connecticut) solo por poco tiempo visitando familia” y además fue ella quien hizo la primera movida... A pesar de su intuición, Brett decidió invitarla a salir la misma noche en que hicieron match y se dijo a sí mismo, “si ella termina siendo un perfil falso solo tendré un poco de vergüenza conmigo mismo pero vale la pena el riesgo”.<br><br>Afortunadamente para Brett, la tía de Adriana, Tia Marce, había estado motivándola o más bien alcahuetiandola para que hiciera amigos mientras estaba de visita de esa manera Adriana tendría más razones para regresar a visitarla y así fue que Adriana decidió descargar Hinge; Pero Adriana era muy exigente y no estaba interesada en los chicos de los cuales recibía likes, asi que como buena mujer Colombiana decidió tomar el toro por los cuernos y pensó “Tiene que haber algún gringuito guapo aca en Connecticut y yo lo voy a encontrar!” y como ella siempre tiene la razón, encontró el perfil de Brett, le dio me gusta y dejó de ver su teléfono. En cuestión de minutos Brett le respondió y la charla comenzó; Estuvieron charlando por un rato y bum! Brett la invitó a salir esa misma noche.",
+          "story2": "Los dos están de acuerdo en que esa primera cita fue muy buena, al igual que la segunda e incluso la tercera, pero quien realmente selló el trato fue Bruno el perrito... bueno perrote de Brett, él parecía haber aprobado a Adriana aunque aún estaba cauteloso ladrando e interrumpiendola cada vez que ella hablaba tomo un tiempo, un largo tiempo pero al final Bruno terminó amándola gracias a la paciencia y amor que ella le daba desde el primer dia, Sin embargo, en el fondo de sus corazones, ellos tenían presente que el tiempo de Adriana en USA era limitado ya que ella regresaba a Londres en tan solo 7 días después de conocerse. Aquí es cuando nuestra grandiosa República Popular de China entra a jugar. Debido a las restricciones existentes por el Covid, Adriana tenía que hacerse el examen para poder abordar su vuelo a Londres, así que le pidió el favor a Brett de que la llevará a el centro de pruebas; en el camino al centro Brett estaba anhelando secretamente que el examen saliera positivo lo que significaria que Adriana se quedaría en USA minimo 10 dias mas. Tiempo después ambos se enteraron que los dos deseaban el mismo resultado.<br><br> Los resultados salieron y gracias a los chinos y su sopa de murcielago fueron positivos. Adriana está estancada en Estados Unidos. Ahora es el turno de Brett de tomar su examen “Por favor que sean positivos, que sean positivos” se decía a sí mismo. Pero lamentablemente, salieron negativos...<br><br> Hora de decidir 1. Brett deja de ver a Adriana para evitar poner en riesgo a las personas a su alrededor? O 2. Edita los resultados positivos de Adriana para que parezcan de él y le dice a todas las personas a su alrededor que tiene Covid?<br><br> (Adivinen que escogio en 3...2...1) Obvio, La más fácil la opción 2. (el escogio la opcion 2) (Perdón a todos los afectados, especialmente tu Scott (compañero de casa de Brett en ese tiempo)<br><br> Durante las siguientes dos semanas, Brett & Adriana pasaron casi todos los días juntos, conociéndose el uno al otro y acercándose más, Brett diría enamorándose, pero Adriana se resistió tanto como podía a no dejar entrar esos sentimientos debido a su vida en el Reino Unido. (Buen intento Adriana...todos sabemos cómo resultó).<br> Después de algunos meses, un par de años y múltiples viajes al otro lado del charco, Brett & Adriana se habían enamorado. Finalmente ganó el amor Adriana aceptó dejar el Reino Unido para empezar su vida junto a Brett y Bruno en Estados Unidos."          
+     },
+
+     "propuesta":{
+          "prop1": "Popuesta",
+          "prop2": "En Enero del 2024, en un viaje a Colombia, Brett voló con algo especial en su bolsillo. Las hermanas de Adriana, Camila y Carolina fueron sus cómplices e hicieron un gran trabajo en ayudarlo a organizar una hermosa propuesta. Durante ese tiempo Brett escogió la canción que iba a sonar en el momento de la propuesta, invitó a la familia de Adriana y sus amigos y escogió una fecha especial para Adriana. El momento había llegado, pero Adriana no estaba cooperando con el plan que Camila, Carolina y Brett habían pensado.<br><br> De regreso a la lluvia de ideas, las hermanas hablaron secretamente cuando Adriana no estaba cerca (una tarea más difícil de lo que se pueden imaginar ya que ella se pega a sus hermanas como un chicle) y finalmente organizaron un plan que sabían que ella iba a seguir más fácilmente.",
+          "prop3" :"Ellos llegarian al Parque de los Novios y Camila le pediría a Adriana que la acompañara al baño mientras Carolina llevaba a Brett al lugar donde todo ocurriría.<br><br> Desafortunadamente, Adriana no quiso ir con Camila porque quería mostrarle el parque a Brett, así que caminaron juntos al lugar en el que pronto se comprometerian en el camino Adriana pensaba que solo le estaba mostrando el parque a Brett mientras el solo pensaba “OMG esto no era parte del plan... 😱” cuando finalmente llegaron Adriana vio la decoración y unas letras gigantes que decían, “ Marry me”. “Ohhhh mira que lindo” dijo ella, a lo que Brett respondió “No sabes para quien es?” En ese momento fue cuando Adriana no pudo evitar llorar, y por accidente el viento sopló un mugre al ojo de Brett lo que lo hizo derramar sus lágrimas descontroladamente. Brett se",
+          "prop4": "En Enero del 2024, en un viaje a Colombia, Brett voló con algo especial en su bolsillo. Las hermanas de Adriana, Camila y Carolina fueron sus cómplices e hicieron un gran trabajo en ayudarlo a organizar una hermosa propuesta. Durante ese tiempo Brett escogió la canción que iba a sonar en el momento de la propuesta, invitó a la familia de Adriana y sus amigos y escogió una fecha especial para Adriana. El momento había llegado, pero Adriana no estaba cooperando con el plan que Camila, Carolina y Brett habían pensado.<br><br> De regreso a la lluvia de ideas, las hermanas hablaron secretamente cuando Adriana no estaba cerca (una tarea más difícil de lo que se pueden imaginar ya que ella se pega a sus hermanas como un chicle) y finalmente organizaron un plan que sabían que ella iba a seguir más fácilmente. Ellos llegarian al Parque de los Novios y Camila le pediría a Adriana que la acompañara al baño mientras Carolina llevaba a Brett al lugar donde todo ocurriría.<br><br> Desafortunadamente, Adriana no quiso ir con Camila porque quería mostrarle el parque a Brett, así que caminaron juntos al lugar en el que pronto se comprometerian en el camino Adriana pensaba que solo le estaba mostrando el parque a Brett mientras el solo pensaba “OMG esto no era parte del plan... 😱” cuando finalmente llegaron Adriana vio la decoración y unas letras gigantes que decían, “ Marry me”. “Ohhhh mira que lindo” dijo ella, a lo que Brett respondió “No sabes para quien es?” En ese momento fue cuando Adriana no pudo evitar llorar, y por accidente el viento sopló un mugre al ojo de Brett lo que lo hizo derramar sus lágrimas descontroladamente. Brett se arrodilló y enfrente de la familia y amigos de Adriana ahora estaban comprometidos."
+     },
+
+     "novios": {
+          "novio": "Conoce al novio",
+          "novio1": "Para los que no conocen al novio, Brett, es el hermano menor de 4 hermanas, su hermana melliza Leah y sus dos hermanas mayores Jen y Chelsea, es el tío de Quinn y Parker y el hijo consentido de su mamá Regina (dicen sus hermanas) también es papá de Bruno, un pastor alemán con nombre italiano, para resaltar la herencia italiana de Brett, la cual nunca pierde el chance de demostrar a todo el mundo a través de la aplicación que prueba tu ADN (ancestry.com) Bruno es el más grande y guapo nene.<br><br> Su familia y amigos lo describirían como alguien incondicional, que pueden llegar con buenas o malas noticias y siempre los apoyara, una persona leal y extremadamente trabajadora, alguien que siempre está ahí, especialmente para emergencias de plomería. Brett es fan de los Eagles de Philadelphia, quienes probablemente para el tiempo de la boda habrán acabado de ganar el Super Bowl. Uno de los Hobbies favoritos de Brett , aparte de trabajar es acostarse en el sofá con Bruno, Brett trata de hacer que Adriana se interese en este Hobbie, pero no ha tenido mucha suerte hasta el momento.",
+          "novio2": "Conoce al novio",
+          "novio3": "Para los que no conocen al novio, Brett, es el hermano menor de 4 hermanas, su hermana melliza Leah y sus dos hermanas mayores Jen y Chelsea, es el tío de Quinn y Parker y el hijo consentido de su mamá Regina (dicen sus hermanas) también es papá de Bruno, un pastor alemán con nombre italiano, para resaltar la herencia italiana de Brett, la cual nunca pierde el chance de demostrar a todo el mundo a través de la aplicación que prueba tu ADN (ancestry.com) Bruno es el más grande y guapo nene.<br><br> Su familia y amigos lo describirían como alguien incondicional, que pueden llegar con buenas o malas noticias y siempre los apoyara, una persona leal y extremadamente trabajadora, alguien que siempre está ahí, especialmente para emergencias de plomería. Brett es fan de los Eagles de Philadelphia, quienes probablemente para el tiempo de la boda habrán acabado de ganar el Super Bowl. Uno de los Hobbies favoritos de Brett , aparte de trabajar es acostarse en el sofá con Bruno, Brett trata de hacer que Adriana se interese en este Hobbie, pero no ha tenido mucha suerte hasta el momento.",
+          "novia": "Conoce a la novia",
+          "novia1": "Para los que no conocen a la novia, Adriana ella es 100% Colombiana, la mayor de tres y como sus padres Ricardo y Nubia dicen “la que les enseñó a ser buenos padres” tiene dos hermanas su hermana del medio Carolina y la menor Camila. Es la tía de Honey la pitbull más tierna y Bruce el maltes más feroz de todos los tiempos.<br><br> Su familia y amigos la describirían como una mujer independiente, fuerte, trabajadora y aventurera, quien a veces puede ser un poco terca, pero solo un poquito (Dice Adriana). Siempre pone a su familia primero y siempre hace todo lo posible para ayudar a los demás a veces incluso incomodandose ella misma.<br><br>Se fue a los 22 años de su casa en Bogotá para iniciar una vida en Londres donde no conocía a nadie, ni sabía el idioma. Inició en Londres sola, mudándose diez veces y teniendo todo tipo de trabajos hasta que finalmente forjó una carrera en Finca Raíz. Vivió en Londres por 9 años. Uno de sus hobbies favoritos es viajar, Adriana ha visitado más de 16 países y contando, ella está tratando de despertar este mismo interés pasión en Brett pero no ha tenido mucha suerte aun. Adriana y Bruno comparten bastante tiempo juntos desde que ella se mudo a Estados Unidos y Bruno ama tener a su mamá finalmente con él. <br><br> Y en cuanto a Bruno, bueno él sí consiguió que los dos estén interesados en rascar su barriguita y darle galleticas todo el día.",
+          "novia2": "<br>Conocoe a la novia<br><br>",
+          "novia3": "Para los que no conocen a la novia, Adriana ella es 100% Colombiana, la mayor de tres y como sus padres Ricardo y Nubia dicen “la que les enseñó a ser buenos padres” tiene dos hermanas su hermana del medio Carolina y la menor Camila. Es la tía de Honey la pitbull más tierna y Bruce el maltes más feroz de todos los tiempos.<br><br> Su familia y amigos la describirían como una mujer independiente, fuerte, trabajadora y aventurera, quien a veces puede ser un poco terca, pero solo un poquito (Dice Adriana). Siempre pone a su familia primero y siempre hace todo lo posible para ayudar a los demás a veces incluso incomodandose ella misma.<br><br>Se fue a los 22 años de su casa en Bogotá para iniciar una vida en Londres donde no conocía a nadie, ni sabía el idioma. Inició en Londres sola, mudándose diez veces y teniendo todo tipo de trabajos hasta que finalmente forjó una carrera en Finca Raíz. Vivió en Londres por 9 años. Uno de sus hobbies favoritos es viajar, Adriana ha visitado más de 16 países y contando, ella está tratando de despertar este mismo interés pasión en Brett pero no ha tenido mucha suerte aun. Adriana y Bruno comparten bastante tiempo juntos desde que ella se mudo a Estados Unidos y Bruno ama tener a su mamá finalmente con él. <br><br> Y en cuanto a Bruno, bueno él sí consiguió que los dos estén interesados en rascar su barriguita y darle galleticas todo el día."
+     },
+
+     "eventos": {
+          "eventos1": "Eventos",
+          "eventos2": "Tendremos un evento opcional el Jueves 3 de Abril, un cocktail de bienvenida el Viernes 4 de Abril, la boda será el Sábado 5 de Abril, y el día Domingo 6 de Abril todos podremos regresar al lugar donde será la boda para un día de playa.<br><br> Estaremos confirmando los eventos, planes y locaciones muy pronto."
+     },
+
+     "travel": {
+          "travel1": "Transporte y Acomodación",
+          "welcome": "Bienvenido a Santa Marta! estamos muy emocionados de que nos acompañes en esta ocasión tan importante para nosotros. Esta es una pequeña introducción de Santa Marta, es una ciudad ubicada en la costa Norte de Colombia, muy cerca a la línea del Ecuador y a tan solo unas horas en carro de Cartagena. Fue uno de los últimos asentamientos de los españoles en América del Sur, antes de que fueran derrotados. Uno de los parques naturales más grandes de Colombia el Parque Tayrona, queda a tan solo 45 minutos en auto desde el centro de la Ciudad, el Tayrona cuenta con hermosos paisajes y playas, además es el punto de partida hacia Ciudad Perdida, una ciudad ancestral que fue descubierta en 1976 y se cree que fue fundada alrededor del año 800 D.C lo que la haría más 650 años más antigua que Machu Picchu. El clima en esta área es tropical, así que será bastante caliente y con un fuerte índice UV así que no olvides tu bloqueador!.<br><br> Si estás viajando desde fuera de Colombia no olvides chequear tu pasaporte, es recomendado tener mínimo 6 meses de validez en tu pasaporte desde la fecha en que vas a viajar de acuerdo con las políticas de Colombia.",
+          "plans": "Planes de Viaje",
+          "plans1": "Si estás viajando desde fuera de Colombia, puedes viajar a Bogotá (Aeropuerto Internacional El Dorado) y de allí tomar un corto de conexión a Santa Marta (Aeropuerto Internacional Simón Bolívar) si estás viajando desde Connecticut, lo más fácil es viajar desde JFK. Ya que aterrices en Santa Marta, nuestra recomendación es reservar un taxi con antelación (a través de tu acomodación) que te recoja en el aeropuerto, si no, nosotros compartiremos la informacion de companias de transporte confiables con las que puedes reservar este servicio. Puedes esperar que el camino desde el aeropuerto hacia la zona hotelera tome aproximadamente unos 20 minutos.<br><br><br>",
+          "acomodations": "Alojamiento",
+          "acomodations1": "Existen bastantes hoteles en la ciudad de Santa Marta así que puedes escoger entre infinitas opciones, sin embargo si quieres una guia nosotros recomendamos alojarte en las áreas de Playa Salguero, Pozos Colorados y Bello Horizonte que son áreas que cuentan con hermosas playas y una gran variedad de servicios convenientemente cerca. Hay muchísimos alojamientos para escoger, desde grandes hoteles de cadena, como también pequeños hoteles boutique, apartamentos y hostales. Nosotros hemos recopilado una lista de nuestros alojamientos favoritos que puedes encontrar a continuación. Recomendamos reservar con antelación ya que Santa Marta es un destino bastante popular y los lugares tienden a llenarse con facilidad. <br><br><br>",
+          "airbnb": "Apartamentos.",
+          "airbnb1": "",
+          "airbnb2": "",
+          "airbnb3": "Apartamentos.",
+          "airbnb4": "",
+          "airbnb5": "",          
+          "airbnb6": "Es un edificio de condominios de gran altura en el frente de la playa, ofrece apartamentos de 1, 2 y 3 habitaciones, también cuenta con 5 piscinas una de ellas en el rooftop (piso 19), la mayoría de apartamentos tienen balcones y hermosas vistas al mar, hay bares en las piscinas, jacuzzis cubiertos y descubiertos, sauna, mini-golf, gimnasio y dos restaurantes que ofrecen domicilio a los condominios, también cuenta con recepción 24/7. <br><br> Puede ser reservado atra vez de Adriana o a este numero de WhatsApp (add link)",
+          "hilton": "HILTON SANTA MARTA",
+          "hilton1": "",
+          "hilton2": "",
+          "hilton3": "HILTON SANTA MARTA",
+          "hilton4": "",
+          "hilton5": "",
+          "hilton6": "Hermosas modernas habitaciones con los servicios tradicionales de un hotel Hilton, está ubicado en la primera línea de la playa , tiene una piscina familiar y una piscina para adultos, las dos ofrecen servicio de bar, el hotel también cuenta con gimnasio, dos restaurantes y servicio a la habitación.",
+          "zuana": "HOTEL ZUANA BEACH RESORT, SPA Y CENTRO DE CONVENCIONES",
+          "zuana1": "",
+          "zuana2": "",
+          "zuana3": "HOTEL ZUANA BEACH RESORT, SPA Y CENTRO DE CONVENCIONES",
+          "zuana4": "",
+          "zuana5": "",
+          "zuana6": "Es un resort bastante grande, que ofrece dos inmensas piscinas, jacuzzis al aire libre, gimnasio y cancha de tenis. También está ubicado frente al mar y tiene dos restaurantes, bares en las piscinas y un rooftop bar."
+     },
+
+     "todo": {
+          "todo1": "Esta sección estará disponible muy pronto.<br><br>",
+          "todo2": "Restaurantes",
+          "todo3": "Actividades",
+          "todo4": "Cosas que probar",
+          "todo5": "Cafe",
+          "todo6": "Bares",
+          "todo7": "Compras",
+          "todo8": "Explora Colombia"
+     },
+
+     "galeria": {
+          "galeria1": "Galeria<br><br>"
+     },
+
+     "FAQS": {
+          "FAQS1": "Preguntas Frecuentes<br><br>",
+          "q1": "Hay (bloque de habitaciones) (habitaciones bloqueadas)?",
+          "q2": "Cuál es el código de vestimenta para los eventos de la boda?",
+          "q3": "Cuál es el código de vestimenta para la boda?",
+          "q4": "Habrá transporte desde y desde el hotel al lugar de la boda?",
+          "q5": "Qué tan pronto debo llegar?",
+          "q6": "Cómo es el clima en Santa Marta?",
+          "q7": "Necesito efectivo?",
+          "q8": "Los Taxis son seguros? o necesito rentar un auto?",
+          "q9": "Qué pasa con todos los vendedores callejeros?",
+          "q10": "Cuánto es una propina?",
+          "q11": "Puedo comer comida de la calle y tomar agua del grifo?",
+          "q12": "Es Santa Marta seguro?",
+          "a1": "No necesariamente, pero estamos en contacto con Reserva Del Mar para ubicar a nuestros huéspedes en la misma torre.",
+          "a2": "Estos detalles estarán disponibles próximamente",
+          "a3": "Estos detalles se darán a conocer próximamente, sin embargo la ceremonia será en la playa y la recepción bajo una carpa al aire libre.",
+          "a4": "Se proporcionarán servicios de transporte desde y hacia los hoteles donde se alojan los huéspedes, los horarios exactos se actualizarán pronto en la pestaña de transporte.",
+          "a5": "Nosotros recomendamos llegar el miércoles tarde noche o el jueves en la mañana así puedes descansar después de tu viaje y acompañarnos para el cocktail de bienvenida el viernes. Si no puedes llegar tan pronto no te preocupes por nada amaremos tenerte en nuestro gran día.<br> Si estás planeando extender tu viaje y conocer Colombia, hemos incluido algunas recomendaciones y lugares para que visites en la pestaña de “Cosas que hacer” por favor no dudes en contactarnos si tienes alguna duda - estaremos más que feliz de ayudar!",
+          "a6": "Abril es un mes tropical en Santa Marta. Las temperaturas variarán entre 92° / 78° fahrenheit 34°C / 26°C. La ceremonia será en la playa y la recepción en una carpa descubierta",
+          "a7": "La mayoría de lugares aceptan tarjeta, sin embargo, si vas a necesitar efectivo para los taxis, pequeñas tiendas y vendedores de calle. Puedes retirar efectivo desde cualquier cajero automático ATM, dentro del aeropuerto o en un centro comercial; también puedes cambiar dólares o libras en las casas de cambio en el aeropuerto.",
+          "a8": "Los taxis amarillos generalmente son seguros, pero sus tarifas pueden variar arbitrariamente asi que lo mejor es siempre reservarlos con la recepcion de tu acomodacion que normalemnrte te compartira la tarifa antes de aceptar la carrera o puedes reservar taxis por alguna de las aplicaciones, como Indriver o Cabify Uber funciona en Santa Marta o tambien puedes descargar Indriver.",
+          "a9": "Vas a encontrar bastantes vendedores tratando de vender souvenirs, sombreros, brazaletes, abanicos etc. pueden ser un poco persistentes pero les puedes decir seriamente No gracias o puedes regatear (negociar) nuestro consejo es siempre negociar jaja.",
+          "a10": "Dar propina es común, una propina de $10,000-20,000 COP (equivalente a $3-5 USD) sería muy apreciada. En los restaurantes, normalmente se agrega una tarifa de servicio, pero puedes dar propina en base al mismo porcentaje que en los EE. UU.",
+          "a11": "La comida de la calle es una de las mejores formas de probar la comida típica y normalmente es deliciosa y fresca, sin embargo ten en cuenta la forma en la que la están preparando y si los ingredientes están expuestos al sol.<br> En cuanto al agua, es mejor que solo tomes agua en botella.",
+          "a12": "Santa Marta es un lugar seguro, pero como en cualquier otra ciudad, conviene estar atento a los alrededores. Se recomienda tener cuidado con objetos como teléfonos, billeteras y joyas cuando se está en la calle, así como con objetos como pasaportes y otros objetos de valor en la caja fuerte del hotel."
+     }
+}
