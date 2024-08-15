@@ -41,7 +41,8 @@
 
      "eventos": {
           "eventos1": "Events",
-          "eventos2": "We will have an optional event on Thursday, April 3rd, a Welcome Cocktail on Friday, April 4th, the Wedding will be on Saturday, April 5th, and we will be able to return to the venue for a day at the beach on Sunday, April 6th. <br> <br> The events, plans, and locations will soon be confirmed."
+          "eventos2": "We will have an optional event on Thursday, April 3rd, a Welcome Cocktail on Friday, April 4th, the Wedding will be on Saturday, April 5th, and we will be able to return to the venue for a day at the beach on Sunday, April 6th. <br> <br> The events, plans, and locations will soon be confirmed, for now we can tell you that the wedding venue will be Casa Vela Beach you can find it below.",
+          "casavela":"Click here to see instagram"
      },
 
      "travel": {
