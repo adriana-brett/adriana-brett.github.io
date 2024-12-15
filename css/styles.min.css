@@ -182,7 +182,7 @@ section.features,section.events,section.blog{
 }
 
 a{
-    color:#e8ca6f;
+    color:#5856dc;
     -webkit-transition-timing-function:ease;
     transition-timing-function:ease;
     -webkit-transition-duration:200ms;
@@ -192,7 +192,7 @@ a{
 }
 
 a:hover,a:focus{    
-    color:#d3b56a;
+    color:#3726a7;
     text-decoration:none
 }
 
